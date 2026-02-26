@@ -1,7 +1,7 @@
 
-const Container = ({children, className}) => {
+const Container = ({ children, className }) => {
   return (
-    <div className={`${className} max-w-[1590px] mx-auto`}>{children}</div>
+    <div className={`${className} max-w-397.5 mx-auto`}>{children}</div>
   )
 }
 
