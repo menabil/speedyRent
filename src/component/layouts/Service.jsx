@@ -15,7 +15,7 @@ const Service = () => {
         <Flex className={"justify-between"}>
           <div className=""></div>
           <div className="">
-            <h3 className="text-5xl text-[#181818] font-semibold w-[614px] leading-[150%] pb-[50px]">
+            <h3 className="text-5xl text-[#181818] font-semibold w-153.5 leading-[150%] pb-12.5">
               Explore Our Wide Range of Car Rental Services
             </h3>
             <div>
@@ -24,7 +24,7 @@ const Service = () => {
                   <div className="bg-[#EA002D] mt-2 py-2.75 px-6 leading-[150%] text-white text-2xl font-semibold">
                     1
                   </div>
-                  <div className={"w-[684px]"}>
+                  <div className={"w-171"}>
                     <AccordionItem value="item-1">
                       <AccordionTrigger
                         className={
@@ -52,7 +52,7 @@ const Service = () => {
                   <div className="bg-[#EA002D] mt-2 py-2.75 px-6 leading-[150%] text-white text-2xl font-semibold">
                     2
                   </div>
-                  <div className={"w-[684px]"}>
+                  <div className={"w-171"}>
                     <AccordionItem value="item-2">
                       <AccordionTrigger
                         className={
@@ -80,7 +80,7 @@ const Service = () => {
                   <div className="bg-[#EA002D] mt-2 py-2.75 px-6 leading-[150%] text-white text-2xl font-semibold">
                     3
                   </div>
-                  <div className={"w-[684px]"}>
+                  <div className={"w-171"}>
                     <AccordionItem value="item-3">
                       <AccordionTrigger
                         className={
@@ -106,7 +106,7 @@ const Service = () => {
                   <div className="bg-[#EA002D] py-2.75 mt-2 px-6 leading-[150%] text-white text-2xl font-semibold">
                     4
                   </div>
-                  <div className={"w-[684px]"}>
+                  <div className={"w-171"}>
                     <AccordionItem value="item-4">
                       <AccordionTrigger
                         className={
