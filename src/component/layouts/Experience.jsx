@@ -11,13 +11,13 @@ import Mid from "/src/assets/expMid.png";
 
 const Experience = () => {
   return (
-    <div className="mt-12.5 mb-[350px]">
+    <div className="mt-12.5 mb-87.5">
       <Container>
-        <h3 className="text-center w-[1140px] text-5xl font-semibold leading-[150%] text-[#181818] mx-auto mb-7.5">
+        <h3 className="text-center w-285 text-5xl font-semibold leading-[150%] text-[#181818] mx-auto mb-7.5">
           Discover Our Exclusive Features and Add-Ons for a Perfect Rental
           Experience
         </h3>
-        <p className="w-[928px] text-center text-[16px] leading-[180%] text-[#454545] mx-auto mb-25">
+        <p className="w-232 text-center text-[16px] leading-[180%] text-[#454545] mx-auto mb-25">
           Lorem ipsum dolor sit amet consectetur. Purus viverra viverra amet
           molestie imperdiet quis enim varius. Vitae rutrum praesent a et cursus
           sagittis egestas blandit eget.
@@ -27,7 +27,7 @@ const Experience = () => {
           <div className="">
             <div className="">
               <Image imgSrc={One} />
-              <div className="w-[493px] mt-5 mr-5">
+              <div className="w-123.25 mt-5 mr-5">
                 <h6 className="text-[32px] text-[#181818] font-semibold pb-5">
                   Online Booking
                 </h6>
@@ -37,9 +37,9 @@ const Experience = () => {
                 </p>
               </div>
             </div>
-            <div className="my-[140px]">
+            <div className="my-35">
               <Image imgSrc={Thr} />
-              <div className="w-[493px] mt-[60px] mr-7.5">
+              <div className="w-123.25 mt-15 mr-7.5">
                 <h6 className="text-[32px] text-[#181818] font-semibold pb-5">
                   Multiple Payment
                 </h6>
@@ -51,7 +51,7 @@ const Experience = () => {
             </div>
             <div className="">
               <Image imgSrc={Fiv} />
-              <div className="w-[493px] mt-5 mr-5">
+              <div className="w-123.25 mt-5 mr-5">
                 <h6 className="text-[32px] text-[#181818] font-semibold pb-5">
                   Flexible Rental Periods
                 </h6>
@@ -69,7 +69,7 @@ const Experience = () => {
           <div className="">
             <div className="">
               <Image imgSrc={Two} />
-              <div className="w-[493px] mt-5 ml-5 text-right">
+              <div className="w-123.25 mt-5 ml-5 text-right">
                 <h6 className="text-[32px] text-[#181818] font-semibold pb-5">
                   Comprehensive Insurance
                 </h6>
@@ -80,9 +80,9 @@ const Experience = () => {
                 </p>
               </div>
             </div>
-            <div className="my-[140px] ml-5">
+            <div className="my-35 ml-5">
               <Image imgSrc={For} />
-              <div className="w-[493px] mt-[60px] ml-7.5 text-right">
+              <div className="w-123.25 mt-15 ml-7.5 text-right">
                 <h6 className="text-[32px] text-[#181818] font-semibold pb-5">
                   24/7 Customer Support
                 </h6>
@@ -94,7 +94,7 @@ const Experience = () => {
             </div>
             <div className="">
               <Image imgSrc={Six} />
-              <div className="w-[493px] mt-5 ml-5 text-right">
+              <div className="w-123.25 mt-5 ml-5 text-right">
                 <h6 className="text-[32px] text-[#181818] font-semibold pb-5">
                   GPS Navigation
                 </h6>
