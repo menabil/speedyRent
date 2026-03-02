@@ -1,3 +1,4 @@
+import { FaChevronDown } from "react-icons/fa6";
 import Container from "../Container";
 import Flex from "../Flex";
 import {
@@ -6,7 +7,6 @@ import {
   AccordionItem,
   AccordionTrigger,
 } from "@/components/ui/accordion";
-import { FaChevronDown } from "react-icons/fa";
 
 const Service = () => {
   return (
