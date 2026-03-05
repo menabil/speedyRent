@@ -9,7 +9,6 @@ function App() {
         <Route path="/" element={<Rootlayouts />}>
           <Route index element={<Home />} />
         </Route>
-        {/* <Route path="error" element={<Settings />} /> */}
       </Routes>
     </>
   );
