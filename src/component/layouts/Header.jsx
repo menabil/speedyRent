@@ -5,7 +5,7 @@ import Logo from "/src/assets/logo.png";
 
 const Header = () => {
   return (
-    <div className="py-10 fixed left-[50%] -translate-x-[50%] w-full z-1">
+    <div className="py-10 fixed left-[50%] -translate-x-[50%] w-full z-1 ">
       <Container>
         <Flex className={"justify-between"}>
           <div className="cursor-pointer">
